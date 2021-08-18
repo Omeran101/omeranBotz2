@@ -1,0 +1,119 @@
+{
+  "users": {
+    "967774466462@s.whatsapp.net": {
+      "exp": 447,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "رقم عميران",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "17799943794@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Boot.Omeran",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "967774466462@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "17799943794@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 16,
+      "success": 16,
+      "last": 1629225202513,
+      "lastSuccess": 1629225202513
+    },
+    "addmsg.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1629221558016,
+      "lastSuccess": 0
+    },
+    "listmsg.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1629221652029,
+      "lastSuccess": 1629221652029
+    },
+    "afk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1629221991243,
+      "lastSuccess": 1629221991243
+    },
+    "ig.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1629222421167,
+      "lastSuccess": 0
+    },
+    "igstalk.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1629222607352,
+      "lastSuccess": 0
+    },
+    "upsw.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1629223741429,
+      "lastSuccess": 1629223741429
+    },
+    "wait.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1629224155545,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {}
+}
