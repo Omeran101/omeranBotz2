@@ -10,8 +10,6 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
 npm install
 ```
 
@@ -93,7 +91,7 @@ conn.logger.level = 'debug'
 
 #### Powered By : [`XTEAM`](https://api.xteam.xyz)
 
-#### Author / Creator : [`Nurutomo`](https://github.com/Nurutomo)
+#### Author / Creator : [`Omeran`](https://github.com/Omeran101)
 
 #### Most Active Contributor : [`ariffb25`](https://github.com/ariffb25)
 
